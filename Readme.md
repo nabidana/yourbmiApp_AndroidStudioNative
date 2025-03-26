@@ -15,3 +15,14 @@ Written based on Android API 35
 
 안드로이드 API 35를 기준으로 작성하였음
 
+
+---
+
+
+### ScreenShot - 스크린샷
+1. Main View ( 메인 화면 )
+
+![Screenshot_1](https://github.com/nabidana/yourbmiApp_AndroidStudioNative/blob/master/Screenshot_1.jpg)
+
+
+2. 
