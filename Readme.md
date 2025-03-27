@@ -1,3 +1,5 @@
+# Currently working on migration and enhancement to react-native Now
+# 현재 react-native 로 마이그레이션 및 고도화 작업중
 Check blood pressure And blood sugar using AndroidStudio With Java Project.
 
 
