@@ -22,7 +22,29 @@ Written based on Android API 35
 ### ScreenShot - 스크린샷
 1. Main View ( 메인 화면 )
 
+
 ![Screenshot_1](https://github.com/nabidana/yourbmiApp_AndroidStudioNative/blob/master/Screenshot_1.jpg)
 
 
-2. 
+2. Date by Blood pressure blood sugar View ( 날짜별 혈압 혈당 화면)
+
+
+![Screenshot_2](https://github.com/nabidana/yourbmiApp_AndroidStudioNative/blob/master/Screenshot_2.jpg)
+
+
+3. Input Blood pressure Blood sugar View ( 혈압 혈당 입력 화면)
+
+
+![Screenshot_3](https://github.com/nabidana/yourbmiApp_AndroidStudioNative/blob/master/Screenshot_3.jpg)
+
+
+4. Select Date View ( 날짜 선택 화면)
+
+
+![Screenshot_4](https://github.com/nabidana/yourbmiApp_AndroidStudioNative/blob/master/Screenshot_4.jpg)
+
+
+5. Download Bllod pressure Bllod sugar By Input Information ( 혈압 혈당 입력 정보 다운로드 )
+
+
+![Screenshot_5](https://github.com/nabidana/yourbmiApp_AndroidStudioNative/blob/master/Screenshot_5.jpg)
